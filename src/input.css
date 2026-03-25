@@ -1,1 +1,9 @@
 @import "tailwindcss";
+
+.border-view {
+  background-color: aquamarine;
+  border-radius: 10px;
+  width: 95vmax;
+  height: 90vmin;
+  justify-self: center;
+}
