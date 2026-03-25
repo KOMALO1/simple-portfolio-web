@@ -1,9 +1,24 @@
 @import "tailwindcss";
 
-.border-view {
-  background-color: aquamarine;
-  border-radius: 10px;
-  width: 95vmax;
-  height: 90vmin;
-  justify-self: center;
+body {
+  background-color: rgb(176, 137, 211);
+}
+
+.icon {
+  text-align: center;
+  border: 4px solid;
+  /* margin-top: 35vmin; */
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  text-align: center;
+  width: 100%;
+  background-color: rgb(137, 99, 171);
+}
+
+#profile {
+  background-color: rgb(147, 51, 234);
 }
