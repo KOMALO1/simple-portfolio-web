@@ -36,3 +36,13 @@ body {
 #contact-title {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
+
+#photoprofile {
+  margin-top: -20px;
+}
+
+#nameprofile {
+  margin-bottom: -20px;
+  margin-top: -20px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
